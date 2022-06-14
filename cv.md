@@ -12,6 +12,7 @@
 * Specialization: geographer (Department of Geodesy and Cartography)
 4. ### Languages:
 Russian (C2), Belarusian (C2), English (B1)
+
 5. ### Пример кода:
 ~~~ <!DOCTYPE html>
         <html lang="en">
